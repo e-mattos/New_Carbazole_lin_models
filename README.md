@@ -1,5 +1,5 @@
 # New_Carbazole_lin_models
-Suporting information to the work **DESIGN NEW CARBAZOLE-BASED DYES FOR DYE-SENSITIZED SOLAR CELL: A LINEAR MODELS APPROACH** submitted in this journal.
+Suporting information to the work submitted in this journal.
 
 ## Components
 - A brief discussion of the molecular descriptors present in the best linear model (see the pdf 'Interpretation of Molecular Descriptors');
